@@ -1,4 +1,4 @@
-package net.ariflaksito.mynotesapp.db;
+package net.ariflaksito.mynewnotes.db;
 
 import android.database.Cursor;
 import android.net.Uri;

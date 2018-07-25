@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNewNotes</string>
+    <string name="buat_baru">Buat Baru</string>
+    <string name="hapus">Hapus</string>
+</resources>
